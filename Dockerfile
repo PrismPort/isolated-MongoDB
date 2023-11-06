@@ -4,6 +4,7 @@ FROM mongo
 
 # Copy your sample data into the container
 COPY sample-data.json /sample-data.json
+COPY sample-users.json /sample-users.json
 
 # Copy the script to init the DB with
 COPY init-mongo.sh /docker-entrypoint-initdb.d/init-mongo.sh
