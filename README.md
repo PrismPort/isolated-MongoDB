@@ -27,7 +27,8 @@ After successfully building the project consists of one Docker Conatiner.
 * A persistent Docker volume `mongodb-data` for databases
 * by default the root username is:  admin
 * by default the root password is: password
- -> these values can be chnage din the Dockerfile.
+
+ -> these values can be changed in the Dockerfile.
 
 ## Usage
 
