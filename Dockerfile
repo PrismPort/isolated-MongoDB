@@ -1,10 +1,6 @@
 # Use the official MongoDB image
 FROM mongo
 
-# Install the MongoDB shell
-RUN apt-get update \
-    && apt-get install -y mongodb-org-shell \
-    && rm -rf /var/lib/apt/lists/*
 
 # Copy your sample data into the container
 COPY sample-data.json /sample-data.json
@@ -23,12 +19,4 @@ ENV MONGO_INITDB_DATABASE=mydatabase
 # Expose the default MongoDB port
 EXPOSE 27017
 
-# Copy the reset script into the container
-COPY reset-and-import.sh /reset-and-import.sh
-
-# Set the reset script to be executable
-RUN chmod +x /reset-and-import.sh
-
-# Run the reset script on container start
-CMD ["/reset-and-import.sh"]
 
