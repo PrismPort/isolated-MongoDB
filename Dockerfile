@@ -1,7 +1,6 @@
 # Use the official MongoDB image
 FROM mongo
 
-
 # Copy your sample data into the container
 COPY sample-data.json /sample-data.json
 COPY sample-users.json /sample-users.json
