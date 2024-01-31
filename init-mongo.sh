@@ -22,3 +22,18 @@ mongoimport --verbose --host localhost --db Books --collection covers --type jso
 
 echo "Importing restaurant data..."
 mongoimport --verbose --host localhost --db Restaurants --collection restaurantData --type json --file /restaurant.json --jsonArray --authenticationDatabase admin -u "$MONGO_INITDB_ROOT_USERNAME" -p "$MONGO_INITDB_ROOT_PASSWORD" || echo "Failed to import restaurantData"
+
+echo "Importing street trees..."
+mongoimport --verbose --host localhost --db StreetTrees --collection streetTrees --type json --file /StreetTrees.json --jsonArray --authenticationDatabase admin -u "$MONGO_INITDB_ROOT_USERNAME" -p "$MONGO_INITDB_ROOT_PASSWORD" || echo "Failed to import streetTrees"
+
+echo "Importing restaurant LotteryNumbers.."
+mongoimport --verbose --host localhost --db LotteryNumbers --collection LotteryNumbers --type json --file /LotteryNumbers.json --jsonArray --authenticationDatabase admin -u "$MONGO_INITDB_ROOT_USERNAME" -p "$MONGO_INITDB_ROOT_PASSWORD" || echo "Failed to import LotteryNumbers"
+
+echo "Importing BabyNames..."
+mongoimport --verbose --host localhost --db BabyNames --collection BabyNames --type json --file /Babynames.json --jsonArray --authenticationDatabase admin -u "$MONGO_INITDB_ROOT_USERNAME" -p "$MONGO_INITDB_ROOT_PASSWORD" || echo "Failed to import babynames"
+
+echo "Importing AirbnbBerlin..."
+mongoimport --verbose --host localhost --db AirbnbData --collection AirbnbBerlin --type json --file /AirbnbBerlin.json --jsonArray --authenticationDatabase admin -u "$MONGO_INITDB_ROOT_USERNAME" -p "$MONGO_INITDB_ROOT_PASSWORD" || echo "Failed to import AirbnbBerlin"
+
+
+echo "Importing restaurant reviews..."
