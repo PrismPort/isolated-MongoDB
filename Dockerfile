@@ -2,9 +2,16 @@
 FROM mongo
 
 # Copy your sample data into the container
-COPY sample-data.json /sample-data.json
-COPY sample-users.json /sample-users.json
-COPY sample-school.json /sample-school.json
+COPY datasets/sample-data.json /sample-data.json
+COPY datasets/sample-users.json /sample-users.json
+COPY datasets/sample-school.json /sample-school.json
+COPY datasets/books.json /books.json
+COPY datasets/city_inspections.json /city_inspections.json
+COPY datasets/covers.json /covers.json
+COPY datasets/products.json /products.json
+COPY datasets/grades.json /grades.json
+COPY datasets/restaurant.json /restaurant.json
+COPY datasets/profiles.json /profiles.json
 
 # Copy the script to init the DB with
 COPY init-mongo.sh /docker-entrypoint-initdb.d/init-mongo.sh
