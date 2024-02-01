@@ -5,24 +5,7 @@
     "gender": "Male",
     "dob": "1047815470000",
     "school_joining_date": "2014-06-05T14:35:47Z",
-    "class": 6,
-    "subjects": [
-      {
-        "name": "Mathematics",
-        "teacher": "Mr. Smith",
-        "shortname": "Math"
-      },
-      {
-        "name": "Science",
-        "teacher": "Ms. Johnson",
-        "shortname": "Sci"
-      },
-      {
-        "name": "English",
-        "teacher": "Mrs. Davis",
-        "shortname": "Eng"
-      }
-    ]
+    "class": 6
   },
   {
     "first_name": "Sawyere",
@@ -30,24 +13,7 @@
     "gender": "Male",
     "dob": "1114632431000",
     "school_joining_date": "2018-05-01T16:15:00Z",
-    "class": 7,
-    "subjects": [
-      {
-        "name": "History",
-        "teacher": "Mr. Brown",
-        "shortname": "Hist"
-      },
-      {
-        "name": "Geography",
-        "teacher": "Mrs. Wilson",
-        "shortname": "Geo"
-      },
-      {
-        "name": "Art",
-        "teacher": "Mr. Turner",
-        "shortname": "Art"
-      }
-    ]
+    "class": 7
   },
   {
     "first_name": "Colver",
@@ -55,24 +21,7 @@
     "gender": "Male",
     "dob": "1260792432000",
     "school_joining_date": "2015-10-15T16:48:36Z",
-    "class": 6,
-    "subjects": [
-      {
-        "name": "Physics",
-        "teacher": "Mr. Anderson",
-        "shortname": "Phys"
-      },
-      {
-        "name": "Chemistry",
-        "teacher": "Mrs. Miller",
-        "shortname": "Chem"
-      },
-      {
-        "name": "Physical Education",
-        "teacher": "Mr. White",
-        "shortname": "PE"
-      }
-    ]
+    "class": 6
   },
   {
     "first_name": "Mara",
@@ -80,24 +29,7 @@
     "gender": "Female",
     "dob": "1291519747000",
     "school_joining_date": "2009-04-01T01:34:31Z",
-    "class": 7,
-    "subjects": [
-      {
-        "name": "Biology",
-        "teacher": "Ms. Robinson",
-        "shortname": "Bio"
-      },
-      {
-        "name": "French",
-        "teacher": "Mr. Martin",
-        "shortname": "Fr"
-      },
-      {
-        "name": "Music",
-        "teacher": "Mrs. Clark",
-        "shortname": "Mus"
-      }
-    ]
+    "class": 7
   },
   {
     "first_name": "Emile",
@@ -105,24 +37,7 @@
     "gender": "Male",
     "dob": "1033508542000",
     "school_joining_date": "2017-06-04T17:48:41Z",
-    "class": 2,
-    "subjects": [
-      {
-        "name": "Reading",
-        "teacher": "Mrs. Johnson",
-        "shortname": "Read"
-      },
-      {
-        "name": "Art",
-        "teacher": "Mr. Turner",
-        "shortname": "Art"
-      },
-      {
-        "name": "Mathematics",
-        "teacher": "Mr. Smith",
-        "shortname": "Math"
-      }
-    ]
+    "class": 2
   },
   {
     "first_name": "Jacquetta",
@@ -130,24 +45,7 @@
     "gender": "Female",
     "dob": "1435981259000",
     "school_joining_date": "2015-12-26T03:15:42Z",
-    "class": 9,
-    "subjects": [
-      {
-        "name": "History",
-        "teacher": "Mr. Brown",
-        "shortname": "Hist"
-      },
-      {
-        "name": "Geography",
-        "teacher": "Mrs. Wilson",
-        "shortname": "Geo"
-      },
-      {
-        "name": "Chemistry",
-        "teacher": "Mrs. Miller",
-        "shortname": "Chem"
-      }
-    ]
+    "class": 9
   },
   {
     "first_name": "Corette",
@@ -155,23 +53,6 @@
     "gender": "Female",
     "dob": "1310587700000",
     "school_joining_date": "2011-10-14T16:53:40Z",
-    "class": 8,
-    "subjects": [
-      {
-        "name": "Mathematics",
-        "teacher": "Mr. Smith",
-        "shortname": "Math"
-      },
-      {
-        "name": "Physics",
-        "teacher": "Mr. Anderson",
-        "shortname": "Phys"
-      },
-      {
-        "name": "Physical Education",
-        "teacher": "Mr. White",
-        "shortname": "PE"
-      }
-    ]
+    "class": 8
   }
 ]

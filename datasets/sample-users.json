@@ -4,18 +4,6 @@
     "last_name": "Ingerman",
     "email": "bingerman0@youku.com",
     "gender": "Female",
-    "address": {
-      "city": "Fresno",
-      "state": "California",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "3571237735836521",
-      "card_type": "jcb",
-      "currency_code": "USD",
-      "balance": "$630.16"
-    },
     "married_status": true
   },
   {
@@ -23,18 +11,6 @@
     "last_name": "Southwell",
     "email": "nsouthwell1@ow.ly",
     "gender": "Male",
-    "address": {
-      "city": "Brooklyn",
-      "state": "New York",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "4041593851397",
-      "card_type": "visa",
-      "currency_code": "USD",
-      "balance": "$7114.48"
-    },
     "married_status": false
   },
   {
@@ -42,18 +18,6 @@
     "last_name": "Gullan",
     "email": "pgullan2@yandex.ru",
     "gender": "Female",
-    "address": {
-      "city": "Salt Lake City",
-      "state": "Utah",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "676296646716051370",
-      "card_type": "maestro",
-      "currency_code": "USD",
-      "balance": "$3256.41"
-    },
     "married_status": false
   },
   {
@@ -61,18 +25,6 @@
     "last_name": "Okell",
     "email": "bokell3@nsw.gov.au",
     "gender": "Male",
-    "address": {
-      "city": "Austin",
-      "state": "Texas",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "5577978480660710",
-      "card_type": "diners-club-us-ca",
-      "currency_code": "USD",
-      "balance": "$6062.56"
-    },
     "married_status": true
   },
   {
@@ -80,18 +32,6 @@
     "last_name": "Wayper",
     "email": "cwayper4@wufoo.com",
     "gender": "Female",
-    "address": {
-      "city": "Sacramento",
-      "state": "California",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "3551992710360939",
-      "card_type": "jcb",
-      "currency_code": "USD",
-      "balance": "$8912.79"
-    },
     "married_status": false
   },
   {
@@ -99,18 +39,6 @@
     "last_name": "Ramet",
     "email": "mramet5@slashdot.org",
     "gender": "Female",
-    "address": {
-      "city": "Spring",
-      "state": "Texas",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "676152626353324697",
-      "card_type": "maestro",
-      "currency_code": "USD",
-      "balance": "$5311.57"
-    },
     "married_status": true
   },
   {
@@ -118,18 +46,6 @@
     "last_name": "Gormley",
     "email": "ggormley6@reference.com",
     "gender": "Female",
-    "address": {
-      "city": "Youngstown",
-      "state": "Ohio",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "3589347453152470",
-      "card_type": "jcb",
-      "currency_code": "USD",
-      "balance": "$3980.32"
-    },
     "married_status": true
   },
   {
@@ -137,18 +53,6 @@
     "last_name": "Gillfillan",
     "email": "lgillfillan7@rambler.ru",
     "gender": "Female",
-    "address": {
-      "city": "Laredo",
-      "state": "Texas",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "372301572464099",
-      "card_type": "americanexpress",
-      "currency_code": "USD",
-      "balance": "$7824.96"
-    },
     "married_status": true
   },
   {
@@ -156,18 +60,6 @@
     "last_name": "Wishkar",
     "email": "cwishkar8@woothemes.com",
     "gender": "Male",
-    "address": {
-      "city": "Dallas",
-      "state": "Texas",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "4911454348618389",
-      "card_type": "switch",
-      "currency_code": "USD",
-      "balance": "$8762.88"
-    },
     "married_status": true
   },
   {
@@ -175,18 +67,6 @@
     "last_name": "Lethby",
     "email": "hlethby9@printfriendly.com",
     "gender": "Male",
-    "address": {
-      "city": "Lansing",
-      "state": "Michigan",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "5513520896699606",
-      "card_type": "mastercard",
-      "currency_code": "USD",
-      "balance": "$5939.40"
-    },
     "married_status": false
   },
   {
@@ -194,18 +74,6 @@
     "last_name": "Grabbam",
     "email": "mgrabbama@linkedin.com",
     "gender": "Female",
-    "address": {
-      "city": "Fort Myers",
-      "state": "Florida",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "3529475786554543",
-      "card_type": "jcb",
-      "currency_code": "USD",
-      "balance": "$9833.50"
-    },
     "married_status": false
   },
   {
@@ -213,18 +81,6 @@
     "last_name": "Day",
     "email": "bdayb@diigo.com",
     "gender": "Male",
-    "address": {
-      "city": "Lubbock",
-      "state": "Texas",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "5327669725068875",
-      "card_type": "mastercard",
-      "currency_code": "USD",
-      "balance": "$3832.14"
-    },
     "married_status": false
   },
   {
@@ -232,18 +88,6 @@
     "last_name": "Mattiazzo",
     "email": "gmattiazzoc@mysql.com",
     "gender": "Male",
-    "address": {
-      "city": "Naples",
-      "state": "Florida",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "3550303457901284",
-      "card_type": "jcb",
-      "currency_code": "USD",
-      "balance": "$6515.12"
-    },
     "married_status": true
   },
   {
@@ -251,18 +95,6 @@
     "last_name": "Waller",
     "email": "hwallerd@tripod.com",
     "gender": "Male",
-    "address": {
-      "city": "New York City",
-      "state": "New York",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "5108753007951969",
-      "card_type": "mastercard",
-      "currency_code": "USD",
-      "balance": "$600.22"
-    },
     "married_status": false
   },
   {
@@ -270,18 +102,6 @@
     "last_name": "Docherty",
     "email": "ldochertye@cnet.com",
     "gender": "Female",
-    "address": {
-      "city": "Brockton",
-      "state": "Massachusetts",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "6761991604607495",
-      "card_type": "maestro",
-      "currency_code": "USD",
-      "balance": "$4143.09"
-    },
     "married_status": false
   },
   {
@@ -289,18 +109,6 @@
     "last_name": "Shipp",
     "email": "bshippf@freewebs.com",
     "gender": "Male",
-    "address": {
-      "city": "Tyler",
-      "state": "Texas",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "3573836304270539",
-      "card_type": "jcb",
-      "currency_code": "USD",
-      "balance": "$1517.09"
-    },
     "married_status": true
   },
   {
@@ -308,18 +116,6 @@
     "last_name": "Dayton",
     "email": "cdaytong@amazon.de",
     "gender": "Female",
-    "address": {
-      "city": "Roanoke",
-      "state": "Virginia",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "374288946324117",
-      "card_type": "americanexpress",
-      "currency_code": "USD",
-      "balance": "$9304.93"
-    },
     "married_status": false
   },
   {
@@ -327,18 +123,6 @@
     "last_name": "De Luna",
     "email": "sdelunah@barnesandnoble.com",
     "gender": "Male",
-    "address": {
-      "city": "Sacramento",
-      "state": "California",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "4917930848433969",
-      "card_type": "visa-electron",
-      "currency_code": "USD",
-      "balance": "$792.04"
-    },
     "married_status": true
   },
   {
@@ -346,18 +130,6 @@
     "last_name": "Stuehmeyer",
     "email": "zstuehmeyeri@fastcompany.com",
     "gender": "Male",
-    "address": {
-      "city": "Raleigh",
-      "state": "North Carolina",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "50180366855438075",
-      "card_type": "maestro",
-      "currency_code": "USD",
-      "balance": "$6742.41"
-    },
     "married_status": false
   },
   {
@@ -365,18 +137,6 @@
     "last_name": "Lambersen",
     "email": "glambersenj@jugem.jp",
     "gender": "Male",
-    "address": {
-      "city": "Boston",
-      "state": "Massachusetts",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "3530403998936453",
-      "card_type": "jcb",
-      "currency_code": "USD",
-      "balance": "$2207.20"
-    },
     "married_status": false
   },
   {
@@ -384,18 +144,6 @@
     "last_name": "Langelaan",
     "email": "glangelaank@answers.com",
     "gender": "Male",
-    "address": {
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "4844015736655879",
-      "card_type": "visa-electron",
-      "currency_code": "USD",
-      "balance": "$4825.24"
-    },
     "married_status": false
   },
   {
@@ -403,18 +151,6 @@
     "last_name": "Riping",
     "email": "vripingl@mysql.com",
     "gender": "Female",
-    "address": {
-      "city": "Washington",
-      "state": "District of Columbia",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "3578770055279404",
-      "card_type": "jcb",
-      "currency_code": "USD",
-      "balance": "$7311.14"
-    },
     "married_status": true
   },
   {
@@ -422,18 +158,6 @@
     "last_name": "McKitterick",
     "email": "zmckitterickm@is.gd",
     "gender": "Male",
-    "address": {
-      "city": "Cleveland",
-      "state": "Ohio",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "4917636733228691",
-      "card_type": "visa-electron",
-      "currency_code": "USD",
-      "balance": "$2981.29"
-    },
     "married_status": true
   },
   {
@@ -441,18 +165,6 @@
     "last_name": "Likly",
     "email": "aliklyn@spiegel.de",
     "gender": "Male",
-    "address": {
-      "city": "Charleston",
-      "state": "West Virginia",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "5602253823222340",
-      "card_type": "bankcard",
-      "currency_code": "USD",
-      "balance": "$7178.29"
-    },
     "married_status": false
   },
   {
@@ -460,18 +172,6 @@
     "last_name": "Houlden",
     "email": "hhouldeno@pcworld.com",
     "gender": "Male",
-    "address": {
-      "city": "Macon",
-      "state": "Georgia",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "3553862256691252",
-      "card_type": "jcb",
-      "currency_code": "USD",
-      "balance": "$556.67"
-    },
     "married_status": false
   },
   {
@@ -479,18 +179,6 @@
     "last_name": "Denman",
     "email": "mdenmanp@whitehouse.gov",
     "gender": "Female",
-    "address": {
-      "city": "Wilmington",
-      "state": "Delaware",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "6387710673636126",
-      "card_type": "instapayment",
-      "currency_code": "USD",
-      "balance": "$7788.78"
-    },
     "married_status": true
   },
   {
@@ -498,18 +186,6 @@
     "last_name": "Meiklam",
     "email": "fmeiklamq@163.com",
     "gender": "Male",
-    "address": {
-      "city": "Louisville",
-      "state": "Kentucky",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "5100144788296071",
-      "card_type": "mastercard",
-      "currency_code": "USD",
-      "balance": "$5019.20"
-    },
     "married_status": true
   },
   {
@@ -517,18 +193,6 @@
     "last_name": "Burnes",
     "email": "cburnesr@walmart.com",
     "gender": "Female",
-    "address": {
-      "city": "Washington",
-      "state": "District of Columbia",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "6399563558204296",
-      "card_type": "instapayment",
-      "currency_code": "USD",
-      "balance": "$8583.85"
-    },
     "married_status": false
   },
   {
@@ -536,18 +200,6 @@
     "last_name": "Lennarde",
     "email": "jlennardes@berkeley.edu",
     "gender": "Female",
-    "address": {
-      "city": "South Bend",
-      "state": "Indiana",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "676215288734523763",
-      "card_type": "maestro",
-      "currency_code": "USD",
-      "balance": "$1105.22"
-    },
     "married_status": false
   },
   {
@@ -555,18 +207,6 @@
     "last_name": "Defont",
     "email": "rdefontt@friendfeed.com",
     "gender": "Male",
-    "address": {
-      "city": "Glendale",
-      "state": "Arizona",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "30561757797464",
-      "card_type": "diners-club-carte-blanche",
-      "currency_code": "USD",
-      "balance": "$5019.23"
-    },
     "married_status": true
   },
   {
@@ -574,18 +214,6 @@
     "last_name": "Dudny",
     "email": "cdudnyu@unicef.org",
     "gender": "Male",
-    "address": {
-      "city": "Virginia Beach",
-      "state": "Virginia",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "3579455434223708",
-      "card_type": "jcb",
-      "currency_code": "USD",
-      "balance": "$7394.44"
-    },
     "married_status": false
   },
   {
@@ -593,18 +221,6 @@
     "last_name": "Debrick",
     "email": "hdebrickv@discovery.com",
     "gender": "Female",
-    "address": {
-      "city": "Fargo",
-      "state": "North Dakota",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "6762965387699025766",
-      "card_type": "maestro",
-      "currency_code": "USD",
-      "balance": "$702.86"
-    },
     "married_status": false
   },
   {
@@ -612,18 +228,6 @@
     "last_name": "Peters",
     "email": "bpetersw@cloudflare.com",
     "gender": "Male",
-    "address": {
-      "city": "Stamford",
-      "state": "Connecticut",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "4026868755785146",
-      "card_type": "visa-electron",
-      "currency_code": "USD",
-      "balance": "$6385.40"
-    },
     "married_status": false
   },
   {
@@ -631,18 +235,6 @@
     "last_name": "Hatherleigh",
     "email": "dhatherleighx@yellowbook.com",
     "gender": "Male",
-    "address": {
-      "city": "Baton Rouge",
-      "state": "Louisiana",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "4844309573757389",
-      "card_type": "visa-electron",
-      "currency_code": "USD",
-      "balance": "$1434.29"
-    },
     "married_status": true
   },
   {
@@ -650,18 +242,6 @@
     "last_name": "Creelman",
     "email": "acreelmany@facebook.com",
     "gender": "Male",
-    "address": {
-      "city": "Jamaica",
-      "state": "New York",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "3553254268438809",
-      "card_type": "jcb",
-      "currency_code": "USD",
-      "balance": "$3950.24"
-    },
     "married_status": false
   },
   {
@@ -669,18 +249,6 @@
     "last_name": "Iggalden",
     "email": "ciggaldenz@cnn.com",
     "gender": "Female",
-    "address": {
-      "city": "Grand Rapids",
-      "state": "Michigan",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "3539816871858646",
-      "card_type": "jcb",
-      "currency_code": "USD",
-      "balance": "$1118.48"
-    },
     "married_status": true
   },
   {
@@ -688,18 +256,6 @@
     "last_name": "Gallichiccio",
     "email": "lgallichiccio10@china.com.cn",
     "gender": "Male",
-    "address": {
-      "city": "Fort Worth",
-      "state": "Texas",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "5038648222164379",
-      "card_type": "maestro",
-      "currency_code": "USD",
-      "balance": "$6120.49"
-    },
     "married_status": false
   },
   {
@@ -707,18 +263,6 @@
     "last_name": "Moseley",
     "email": "mmoseley11@cornell.edu",
     "gender": "Male",
-    "address": {
-      "city": "Las Vegas",
-      "state": "Nevada",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "6761802354797149",
-      "card_type": "maestro",
-      "currency_code": "USD",
-      "balance": "$1903.51"
-    },
     "married_status": true
   },
   {
@@ -726,18 +270,6 @@
     "last_name": "Labuschagne",
     "email": "blabuschagne12@usda.gov",
     "gender": "Female",
-    "address": {
-      "city": "Portland",
-      "state": "Oregon",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "3553724949903777",
-      "card_type": "jcb",
-      "currency_code": "USD",
-      "balance": "$6155.30"
-    },
     "married_status": false
   },
   {
@@ -745,18 +277,6 @@
     "last_name": "Luberto",
     "email": "mluberto13@photobucket.com",
     "gender": "Female",
-    "address": {
-      "city": "Saint Louis",
-      "state": "Missouri",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "3551030041295134",
-      "card_type": "jcb",
-      "currency_code": "USD",
-      "balance": "$9918.80"
-    },
     "married_status": false
   },
   {
@@ -764,18 +284,6 @@
     "last_name": "Idiens",
     "email": "cidiens14@engadget.com",
     "gender": "Male",
-    "address": {
-      "city": "Spokane",
-      "state": "Washington",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "3533510493088692",
-      "card_type": "jcb",
-      "currency_code": "USD",
-      "balance": "$1543.63"
-    },
     "married_status": false
   },
   {
@@ -783,18 +291,6 @@
     "last_name": "Iannello",
     "email": "riannello15@salon.com",
     "gender": "Male",
-    "address": {
-      "city": "Wilmington",
-      "state": "Delaware",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "3579236502808301",
-      "card_type": "jcb",
-      "currency_code": "USD",
-      "balance": "$1723.64"
-    },
     "married_status": false
   },
   {
@@ -802,18 +298,6 @@
     "last_name": "Sowray",
     "email": "rsowray16@drupal.org",
     "gender": "Male",
-    "address": {
-      "city": "Saint Louis",
-      "state": "Missouri",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "6759678150643849515",
-      "card_type": "maestro",
-      "currency_code": "USD",
-      "balance": "$1159.23"
-    },
     "married_status": false
   },
   {
@@ -821,18 +305,6 @@
     "last_name": "Blanchet",
     "email": "fblanchet17@examiner.com",
     "gender": "Male",
-    "address": {
-      "city": "Nashville",
-      "state": "Tennessee",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "4911929718430152248",
-      "card_type": "switch",
-      "currency_code": "USD",
-      "balance": "$1624.02"
-    },
     "married_status": false
   },
   {
@@ -840,18 +312,6 @@
     "last_name": "Ploughwright",
     "email": "bploughwright18@163.com",
     "gender": "Male",
-    "address": {
-      "city": "Laredo",
-      "state": "Texas",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "3569814768345069",
-      "card_type": "jcb",
-      "currency_code": "USD",
-      "balance": "$816.85"
-    },
     "married_status": true
   },
   {
@@ -859,18 +319,6 @@
     "last_name": "Baumford",
     "email": "kbaumford19@wordpress.org",
     "gender": "Male",
-    "address": {
-      "city": "Madison",
-      "state": "Wisconsin",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "201552703459625",
-      "card_type": "diners-club-enroute",
-      "currency_code": "USD",
-      "balance": "$7950.38"
-    },
     "married_status": true
   },
   {
@@ -878,18 +326,6 @@
     "last_name": "Choldcroft",
     "email": "bcholdcroft1a@squarespace.com",
     "gender": "Female",
-    "address": {
-      "city": "Denver",
-      "state": "Colorado",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "30243257522847",
-      "card_type": "diners-club-carte-blanche",
-      "currency_code": "USD",
-      "balance": "$7657.22"
-    },
     "married_status": false
   },
   {
@@ -897,18 +333,6 @@
     "last_name": "Lantaff",
     "email": "slantaff1b@xrea.com",
     "gender": "Female",
-    "address": {
-      "city": "Honolulu",
-      "state": "Hawaii",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "377324724145072",
-      "card_type": "americanexpress",
-      "currency_code": "USD",
-      "balance": "$1736.51"
-    },
     "married_status": false
   },
   {
@@ -916,18 +340,6 @@
     "last_name": "Jaquiss",
     "email": "hjaquiss1c@google.ru",
     "gender": "Female",
-    "address": {
-      "city": "San Antonio",
-      "state": "Texas",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "4936613136906511987",
-      "card_type": "switch",
-      "currency_code": "USD",
-      "balance": "$3661.24"
-    },
     "married_status": false
   },
   {
@@ -935,18 +347,6 @@
     "last_name": "Dusey",
     "email": "jdusey1d@wiley.com",
     "gender": "Female",
-    "address": {
-      "city": "Brockton",
-      "state": "Massachusetts",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "6331103908708174",
-      "card_type": "switch",
-      "currency_code": "USD",
-      "balance": "$1061.47"
-    },
     "married_status": true
   },
   {
@@ -954,18 +354,6 @@
     "last_name": "Cherm",
     "email": "ccherm1e@latimes.com",
     "gender": "Male",
-    "address": {
-      "city": "Las Vegas",
-      "state": "Nevada",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "30099166680484",
-      "card_type": "diners-club-carte-blanche",
-      "currency_code": "USD",
-      "balance": "$3939.30"
-    },
     "married_status": false
   },
   {
@@ -973,18 +361,6 @@
     "last_name": "Welbourn",
     "email": "bwelbourn1f@kickstarter.com",
     "gender": "Male",
-    "address": {
-      "city": "Huntington Beach",
-      "state": "California",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "4222414787842",
-      "card_type": "visa",
-      "currency_code": "USD",
-      "balance": "$502.50"
-    },
     "married_status": false
   },
   {
@@ -992,18 +368,6 @@
     "last_name": "Breadmore",
     "email": "sbreadmore1g@cyberchimps.com",
     "gender": "Female",
-    "address": {
-      "city": "Cincinnati",
-      "state": "Ohio",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "3551783308442308",
-      "card_type": "jcb",
-      "currency_code": "USD",
-      "balance": "$591.33"
-    },
     "married_status": false
   },
   {
@@ -1011,18 +375,6 @@
     "last_name": "Carefull",
     "email": "gcarefull1h@yellowbook.com",
     "gender": "Female",
-    "address": {
-      "city": "Syracuse",
-      "state": "New York",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "3528575407835311",
-      "card_type": "jcb",
-      "currency_code": "USD",
-      "balance": "$8863.72"
-    },
     "married_status": true
   },
   {
@@ -1030,18 +382,6 @@
     "last_name": "Parr",
     "email": "bparr1i@weibo.com",
     "gender": "Male",
-    "address": {
-      "city": "Springfield",
-      "state": "Massachusetts",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "3573833529705787",
-      "card_type": "jcb",
-      "currency_code": "USD",
-      "balance": "$5239.64"
-    },
     "married_status": false
   },
   {
@@ -1049,18 +389,6 @@
     "last_name": "Elt",
     "email": "celt1j@marriott.com",
     "gender": "Female",
-    "address": {
-      "city": "El Paso",
-      "state": "Texas",
-      "country": "United States",
-      "country_code": "US"
-    },
-    "card": {
-      "card_number": "6767506521362489",
-      "card_type": "solo",
-      "currency_code": "USD",
-      "balance": "$5027.56"
-    },
     "married_status": false
   }
 ]
