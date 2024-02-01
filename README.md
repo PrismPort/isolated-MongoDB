@@ -1,10 +1,4 @@
-# $CoolName – A visual interface for human readable MongoDB queries
-
-This is an isolated docker container running a MongoDb isntance and populating it with some sample data.
-
-[Our names]
-
-[University context]
+# Peek – A visual interface for human readable MongoDB queries
 
 ## Installation
 
