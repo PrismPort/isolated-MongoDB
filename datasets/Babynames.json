@@ -1,880 +1,522 @@
-[{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bef5"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "GERALDINE",
-  "Count": 13,
-  "Rank": 75
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bef6"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "GIA",
-  "Count": 21,
-  "Rank": 67
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bef7"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "GIANNA",
-  "Count": 49,
-  "Rank": 42
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bef8"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "GISELLE",
-  "Count": 38,
-  "Rank": 51
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bef9"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "GRACE",
-  "Count": 36,
-  "Rank": 53
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00befa"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "GUADALUPE",
-  "Count": 26,
-  "Rank": 62
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00befb"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "HAILEY",
-  "Count": 126,
-  "Rank": 8
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00befc"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "HALEY",
-  "Count": 14,
-  "Rank": 74
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00befd"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "HANNAH",
-  "Count": 17,
-  "Rank": 71
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00befe"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "HAYLEE",
-  "Count": 17,
-  "Rank": 71
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00beff"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "HAYLEY",
-  "Count": 13,
-  "Rank": 75
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf00"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "HAZEL",
-  "Count": 10,
-  "Rank": 78
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf01"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "HEAVEN",
-  "Count": 15,
-  "Rank": 73
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf02"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "HEIDI",
-  "Count": 15,
-  "Rank": 73
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf03"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "HEIDY",
-  "Count": 16,
-  "Rank": 72
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf04"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "HELEN",
-  "Count": 13,
-  "Rank": 75
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf05"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "IMANI",
-  "Count": 11,
-  "Rank": 77
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf06"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "INGRID",
-  "Count": 11,
-  "Rank": 77
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf07"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "IRENE",
-  "Count": 11,
-  "Rank": 77
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf08"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "IRIS",
-  "Count": 10,
-  "Rank": 78
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf09"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "ISABEL",
-  "Count": 28,
-  "Rank": 60
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf0a"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "ISABELA",
-  "Count": 10,
-  "Rank": 78
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf0b"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "ISABELLA",
-  "Count": 331,
-  "Rank": 1
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf0c"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "ISABELLE",
-  "Count": 18,
-  "Rank": 70
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf0d"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "ISIS",
-  "Count": 13,
-  "Rank": 75
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf0e"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "ITZEL",
-  "Count": 27,
-  "Rank": 61
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf0f"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "IZABELLA",
-  "Count": 23,
-  "Rank": 65
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf10"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "JACQUELINE",
-  "Count": 30,
-  "Rank": 58
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf11"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "JADA",
-  "Count": 21,
-  "Rank": 67
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf12"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "JADE",
-  "Count": 50,
-  "Rank": 41
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf13"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "JAELYNN",
-  "Count": 11,
-  "Rank": 77
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf14"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "JAMIE",
-  "Count": 11,
-  "Rank": 77
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf15"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "JANELLE",
-  "Count": 12,
-  "Rank": 76
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf16"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "JASLENE",
-  "Count": 11,
-  "Rank": 77
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf17"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "JASMIN",
-  "Count": 20,
-  "Rank": 68
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf18"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "JASMINE",
-  "Count": 41,
-  "Rank": 48
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf19"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "JAYDA",
-  "Count": 10,
-  "Rank": 78
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf1a"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "JAYLA",
-  "Count": 33,
-  "Rank": 55
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf1b"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "JAYLAH",
-  "Count": 12,
-  "Rank": 76
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf1c"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "JAYLEEN",
-  "Count": 51,
-  "Rank": 40
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf1d"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "JAYLENE",
-  "Count": 22,
-  "Rank": 66
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf1e"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "JAYLIN",
-  "Count": 13,
-  "Rank": 75
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf1f"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "JAYLYN",
-  "Count": 10,
-  "Rank": 78
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf20"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "JAZLYN",
-  "Count": 16,
-  "Rank": 72
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf21"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "JAZMIN",
-  "Count": 24,
-  "Rank": 64
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf22"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "JAZMINE",
-  "Count": 14,
-  "Rank": 74
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf23"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "JENNIFER",
-  "Count": 59,
-  "Rank": 34
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf24"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "JESSICA",
-  "Count": 46,
-  "Rank": 44
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf25"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "JIMENA",
-  "Count": 11,
-  "Rank": 77
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf26"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "JOCELYN",
-  "Count": 46,
-  "Rank": 44
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf27"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "JOHANNA",
-  "Count": 12,
-  "Rank": 76
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf28"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "JOSELYN",
-  "Count": 30,
-  "Rank": 58
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf29"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "JULIA",
-  "Count": 22,
-  "Rank": 66
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf2a"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "JULIANA",
-  "Count": 16,
-  "Rank": 72
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf2b"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "JULIANNA",
-  "Count": 21,
-  "Rank": 67
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf2c"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "JULIET",
-  "Count": 20,
-  "Rank": 68
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf2d"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "JULIETTE",
-  "Count": 15,
-  "Rank": 73
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf2e"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "JULISSA",
-  "Count": 16,
-  "Rank": 72
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf2f"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "KAELYN",
-  "Count": 11,
-  "Rank": 77
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf30"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "KAILEY",
-  "Count": 20,
-  "Rank": 68
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf31"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "KAILYN",
-  "Count": 11,
-  "Rank": 77
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf32"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "KAITLYN",
-  "Count": 31,
-  "Rank": 57
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf33"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "KAMILA",
-  "Count": 36,
-  "Rank": 53
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf34"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "KAREN",
-  "Count": 41,
-  "Rank": 48
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf35"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "KARLA",
-  "Count": 25,
-  "Rank": 63
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf36"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "KATE",
-  "Count": 27,
-  "Rank": 61
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf37"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "KATELYN",
-  "Count": 23,
-  "Rank": 65
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf38"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "KATELYNN",
-  "Count": 10,
-  "Rank": 78
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf39"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "KATHERINE",
-  "Count": 60,
-  "Rank": 33
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf3a"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "KATIE",
-  "Count": 12,
-  "Rank": 76
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf3b"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "KAYLA",
-  "Count": 62,
-  "Rank": 31
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf3c"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "KAYLEE",
-  "Count": 83,
-  "Rank": 20
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf3d"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "KAYLEEN",
-  "Count": 19,
-  "Rank": 69
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf3e"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "KAYLEIGH",
-  "Count": 10,
-  "Rank": 78
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf3f"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "KAYLIE",
-  "Count": 15,
-  "Rank": 73
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf40"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "KAYLIN",
-  "Count": 12,
-  "Rank": 76
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf41"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "KEILY",
-  "Count": 17,
-  "Rank": 71
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf42"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "KELLY",
-  "Count": 41,
-  "Rank": 48
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf43"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "KEYLA",
-  "Count": 12,
-  "Rank": 76
-},
-{
-  "_id": {
-    "$oid": "65ba1eb7f006e7632d00bf44"
-  },
-  "Year of Birth": 2011,
-  "Gender": "FEMALE",
-  "Ethnicity": "HISPANIC",
-  "Child's First Name": "KHLOE",
-  "Count": 57,
-  "Rank": 35
-}]
+[
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf00"
+    },
+    "Year of Birth": 2008,
+    "Gender": "MALE",
+    "Ethnicity": "ASIAN",
+    "Child's First Name": "AARON",
+    "Weight in Kg": 2.75
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf01"
+    },
+    "Year of Birth": 2009,
+    "Gender": "FEMALE",
+    "Ethnicity": "BLACK",
+    "Child's First Name": "HEAVEN",
+    "Weight in Kg": 3.45
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf02"
+    },
+    "Year of Birth": 2010,
+    "Gender": "MALE",
+    "Ethnicity": "HISPANIC",
+    "Child's First Name": "HEIDI",
+    "Weight in Kg": 4.2
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf03"
+    },
+    "Year of Birth": 2011,
+    "Gender": "FEMALE",
+    "Ethnicity": "WHITE",
+    "Child's First Name": "HEIDY",
+    "Weight in Kg": 3.1
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf04"
+    },
+    "Year of Birth": 2008,
+    "Gender": "MALE",
+    "Ethnicity": "ASIAN",
+    "Child's First Name": "HELEN",
+    "Weight in Kg": 2.9
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf05"
+    },
+    "Year of Birth": 2009,
+    "Gender": "FEMALE",
+    "Ethnicity": "BLACK",
+    "Child's First Name": "HELENA",
+    "Weight in Kg": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf06"
+    },
+    "Year of Birth": 2010,
+    "Gender": "MALE",
+    "Ethnicity": "HISPANIC",
+    "Child's First Name": "HUNTER",
+    "Weight in Kg": 3.2
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf07"
+    },
+    "Year of Birth": 2011,
+    "Gender": "FEMALE",
+    "Ethnicity": "WHITE",
+    "Child's First Name": "HUNTER",
+    "Weight in Kg": 4.6
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf08"
+    },
+    "Year of Birth": 2008,
+    "Gender": "MALE",
+    "Ethnicity": "ASIAN",
+    "Child's First Name": "IAN",
+    "Weight in Kg": 3.3
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf09"
+    },
+    "Year of Birth": 2009,
+    "Gender": "FEMALE",
+    "Ethnicity": "BLACK",
+    "Child's First Name": "ILA",
+    "Weight in Kg": 3.8
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf0a"
+    },
+    "Year of Birth": 2010,
+    "Gender": "MALE",
+    "Ethnicity": "HISPANIC",
+    "Child's First Name": "ILAHI",
+    "Weight in Kg": 4.7
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf0b"
+    },
+    "Year of Birth": 2011,
+    "Gender": "FEMALE",
+    "Ethnicity": "WHITE",
+    "Child's First Name": "ILAHI",
+    "Weight in Kg": 2.1
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf0c"
+    },
+    "Year of Birth": 2008,
+    "Gender": "MALE",
+    "Ethnicity": "ASIAN",
+    "Child's First Name": "JACOB",
+    "Weight in Kg": 2.5
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf0d"
+    },
+    "Year of Birth": 2009,
+    "Gender": "FEMALE",
+    "Ethnicity": "BLACK",
+    "Child's First Name": "JACQUELINE",
+    "Weight in Kg": 2.7
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf0e"
+    },
+    "Year of Birth": 2010,
+    "Gender": "MALE",
+    "Ethnicity": "HISPANIC",
+    "Child's First Name": "JADE",
+    "Weight in Kg": 4.3
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf0f"
+    },
+    "Year of Birth": 2011,
+    "Gender": "FEMALE",
+    "Ethnicity": "WHITE",
+    "Child's First Name": "JADE",
+    "Weight in Kg": 3.6
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf10"
+    },
+    "Year of Birth": 2008,
+    "Gender": "MALE",
+    "Ethnicity": "ASIAN",
+    "Child's First Name": "JADEN",
+    "Weight in Kg": 3.9
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf11"
+    },
+    "Year of Birth": 2009,
+    "Gender": "FEMALE",
+    "Ethnicity": "BLACK",
+    "Child's First Name": "JADEN",
+    "Weight in Kg": 3.4
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf12"
+    },
+    "Year of Birth": 2010,
+    "Gender": "MALE",
+    "Ethnicity": "HISPANIC",
+    "Child's First Name": "JADEN",
+    "Weight in Kg": 4.9
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf13"
+    },
+    "Year of Birth": 2011,
+    "Gender": "FEMALE",
+    "Ethnicity": "WHITE",
+    "Child's First Name": "JADEN",
+    "Weight in Kg": 3.7
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf14"
+    },
+    "Year of Birth": 2012,
+    "Gender": "MALE",
+    "Ethnicity": "ASIAN",
+    "Child's First Name": "JAMES",
+    "Weight in Kg": 2.8
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf15"
+    },
+    "Year of Birth": 2013,
+    "Gender": "FEMALE",
+    "Ethnicity": "BLACK",
+    "Child's First Name": "JASMINE",
+    "Weight in Kg": 4.3
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf16"
+    },
+    "Year of Birth": 2014,
+    "Gender": "MALE",
+    "Ethnicity": "HISPANIC",
+    "Child's First Name": "JASON",
+    "Weight in Kg": 3.2
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf17"
+    },
+    "Year of Birth": 2015,
+    "Gender": "FEMALE",
+    "Ethnicity": "WHITE",
+    "Child's First Name": "JESSICA",
+    "Weight in Kg": 2.5
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf18"
+    },
+    "Year of Birth": 2012,
+    "Gender": "MALE",
+    "Ethnicity": "ASIAN",
+    "Child's First Name": "JOHN",
+    "Weight in Kg": 2.2
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf19"
+    },
+    "Year of Birth": 2013,
+    "Gender": "FEMALE",
+    "Ethnicity": "BLACK",
+    "Child's First Name": "JULIA",
+    "Weight in Kg": 3.8
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf1a"
+    },
+    "Year of Birth": 2014,
+    "Gender": "MALE",
+    "Ethnicity": "HISPANIC",
+    "Child's First Name": "JUSTIN",
+    "Weight in Kg": 4.5
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf1b"
+    },
+    "Year of Birth": 2015,
+    "Gender": "FEMALE",
+    "Ethnicity": "WHITE",
+    "Child's First Name": "KAREN",
+    "Weight in Kg": 3.1
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf1c"
+    },
+    "Year of Birth": 2012,
+    "Gender": "MALE",
+    "Ethnicity": "ASIAN",
+    "Child's First Name": "KEVIN",
+    "Weight in Kg": 2.9
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf1d"
+    },
+    "Year of Birth": 2013,
+    "Gender": "FEMALE",
+    "Ethnicity": "BLACK",
+    "Child's First Name": "KIMBERLY",
+    "Weight in Kg": 4.1
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf1e"
+    },
+    "Year of Birth": 2014,
+    "Gender": "MALE",
+    "Ethnicity": "HISPANIC",
+    "Child's First Name": "LARRY",
+    "Weight in Kg": 3.7
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf1f"
+    },
+    "Year of Birth": 2015,
+    "Gender": "FEMALE",
+    "Ethnicity": "WHITE",
+    "Child's First Name": "LILY",
+    "Weight in Kg": 2.3
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf20"
+    },
+    "Year of Birth": 2012,
+    "Gender": "MALE",
+    "Ethnicity": "ASIAN",
+    "Child's First Name": "LUKE",
+    "Weight in Kg": 3.4
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf21"
+    },
+    "Year of Birth": 2013,
+    "Gender": "FEMALE",
+    "Ethnicity": "BLACK",
+    "Child's First Name": "MADISON",
+    "Weight in Kg": 2.7
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf22"
+    },
+    "Year of Birth": 2014,
+    "Gender": "MALE",
+    "Ethnicity": "HISPANIC",
+    "Child's First Name": "MASON",
+    "Weight in Kg": 3.9
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf23"
+    },
+    "Year of Birth": 2015,
+    "Gender": "FEMALE",
+    "Ethnicity": "WHITE",
+    "Child's First Name": "MAYA",
+    "Weight in Kg": 4.4
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf24"
+    },
+    "Year of Birth": 2012,
+    "Gender": "MALE",
+    "Ethnicity": "ASIAN",
+    "Child's First Name": "MICHAEL",
+    "Weight in Kg": 3.5
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf25"
+    },
+    "Year of Birth": 2013,
+    "Gender": "FEMALE",
+    "Ethnicity": "BLACK",
+    "Child's First Name": "MILA",
+    "Weight in Kg": 2.1
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf26"
+    },
+    "Year of Birth": 2014,
+    "Gender": "MALE",
+    "Ethnicity": "HISPANIC",
+    "Child's First Name": "NATHAN",
+    "Weight in Kg": 4.7
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf27"
+    },
+    "Year of Birth": 2015,
+    "Gender": "FEMALE",
+    "Ethnicity": "WHITE",
+    "Child's First Name": "NINA",
+    "Weight in Kg": 2.4
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf28"
+    },
+    "Year of Birth": 2012,
+    "Gender": "MALE",
+    "Ethnicity": "ASIAN",
+    "Child's First Name": "NOAH",
+    "Weight in Kg": 4.2
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf29"
+    },
+    "Year of Birth": 2013,
+    "Gender": "FEMALE",
+    "Ethnicity": "BLACK",
+    "Child's First Name": "OLIVIA",
+    "Weight in Kg": 3.3
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf2a"
+    },
+    "Year of Birth": 2014,
+    "Gender": "MALE",
+    "Ethnicity": "HISPANIC",
+    "Child's First Name": "OWEN",
+    "Weight in Kg": 2.6
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf2b"
+    },
+    "Year of Birth": 2015,
+    "Gender": "FEMALE",
+    "Ethnicity": "WHITE",
+    "Child's First Name": "PENELOPE",
+    "Weight in Kg": 4.6
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf2c"
+    },
+    "Year of Birth": 2012,
+    "Gender": "MALE",
+    "Ethnicity": "ASIAN",
+    "Child's First Name": "RILEY",
+    "Weight in Kg": 3.0
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf2d"
+    },
+    "Year of Birth": 2013,
+    "Gender": "FEMALE",
+    "Ethnicity": "BLACK",
+    "Child's First Name": "SAMUEL",
+    "Weight in Kg": 4.8
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf2e"
+    },
+    "Year of Birth": 2014,
+    "Gender": "MALE",
+    "Ethnicity": "HISPANIC",
+    "Child's First Name": "SARA",
+    "Weight in Kg": 2.4
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf2f"
+    },
+    "Year of Birth": 2015,
+    "Gender": "FEMALE",
+    "Ethnicity": "WHITE",
+    "Child's First Name": "SEBASTIAN",
+    "Weight in Kg": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf30"
+    },
+    "Year of Birth": 2012,
+    "Gender": "MALE",
+    "Ethnicity": "ASIAN",
+    "Child's First Name": "SOFIA",
+    "Weight in Kg": 3.6
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf31"
+    },
+    "Year of Birth": 2013,
+    "Gender": "FEMALE",
+    "Ethnicity": "BLACK",
+    "Child's First Name": "WILLIAM",
+    "Weight in Kg": 2.3
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf32"
+    },
+    "Year of Birth": 2014,
+    "Gender": "MALE",
+    "Ethnicity": "HISPANIC",
+    "Child's First Name": "ZOE",
+    "Weight in Kg": 4.4
+  },
+  {
+    "_id": {
+      "$oid": "65ba1eb7f006e7632d00bf33"
+    },
+    "Year of Birth": 2015,
+    "Gender": "FEMALE",
+    "Ethnicity": "WHITE",
+    "Child's First Name": "ZACHARY",
+    "Weight in Kg": 3.1
+  }
+]
